@@ -4,17 +4,20 @@
   
 # About Us
   
-We are two guys from Czech Republic (Prague and Liberec) who are trying to run this company. Our main goal is to provide and create best websites as possible for our clients. We provide design of your website and static pages up to their maintenance. Our team is high skilled and experienced enough to provide you with the best we can give you. If you're convinced to work with us feel free to contact us!
+Soon...
   
 ## Contacts
 
-Email: contact@metnity.cz <br>
-Web: www.metnity.cz <br>
-Phone: +420 607 136 006
+Email: contact@silvercoast-lab.com <br>
+Web: www.silvercoast-lab.com <br>
+Discord: https://discord.gg/PStEX9XFm6 <br>
+Support server: https://discord.gg/4BAKscxKvN
 
-## Or contact us on Discord
+## Direct contact 
 
-ethxrnity#5959 / Nistic#2124
+ethxrnity#3333 <br> 
+yandexphp#6209 <br>
+rory#1095
 
-Server: https://discord.gg/PDsZWKwz
+
   
