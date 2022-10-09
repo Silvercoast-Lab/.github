@@ -9,7 +9,8 @@ Soon...
 Email: contact@silvercoast-lab.com <br>
 Web: www.silvercoast-lab.com <br>
 Discord: https://discord.gg/PStEX9XFm6 <br>
-Support server: https://discord.gg/4BAKscxKvN
+Support server: https://discord.gg/4BAKscxKvN <br>
+Capy invite: https://capy-bot.xyz
 
 ## Direct contact 
 
